@@ -1,0 +1,79 @@
+ID: news0439
+Title: 校园春季运动会延期通知
+Content: 由于天气原因，原定于下月举行的春季运动会将延期至下下月...
+Author: admin
+Category: 通知
+PublishDate: 2025-12-30
+Status: 2
+---
+ID: news0670
+Title: Updated Integration Test News 1
+Content: Updated content for the first integration test news.
+Author: admin
+Category: Notification
+PublishDate: 2026-01-03
+Status: 2
+ID: news0001
+Title: 图书馆闭馆通知
+Content: 本周五图书馆将进行系统维护，全天闭馆，请各位读者提前安排好借阅时间。
+Author: admin
+Category: 通知
+PublishDate: 2025-12-20
+Status: 2
+---
+ID: news0002
+Title: 学术讲座预告
+Content: 本周六下午2点，计算机学院将举办人工智能前沿技术讲座，欢迎全校师生参加。
+Author: teacher1
+Category: 学术
+PublishDate: 2025-12-21
+Status: 2
+---
+ID: news0003
+Title: 校园招聘会通知
+Content: 年度校园招聘会将于下周三在体育馆举行，届时将有100余家企业参会。
+Author: admin
+Category: 招聘
+PublishDate: 2025-12-22
+Status: 2
+---
+ID: news0004
+Title: 学生社团招新
+Content: 各大学生社团开始招新，欢迎感兴趣的同学报名参加。
+Author: student1
+Category: 活动
+PublishDate: 2025-12-23
+Status: 2
+---
+ID: news0005
+Title: 期末考试安排
+Content: 2025-2026学年第一学期期末考试安排已公布，请各位同学及时查看。
+Author: admin
+Category: 通知
+PublishDate: 2025-12-24
+Status: 2
+---
+ID: news0006
+Title: 寒假放假通知
+Content: 学校将于1月15日开始放寒假，请各位同学做好离校准备。
+Author: admin
+Category: 通知
+PublishDate: 2025-12-25
+Status: 2
+---
+ID: news0007
+Title: 新学期选课指南
+Content: 新学期选课系统已开放，请各位同学在规定时间内完成选课。
+Author: admin
+Category: 教务
+PublishDate: 2025-12-26
+Status: 2
+---
+ID: news0008
+Title: 校园网络升级公告
+Content: 本周末将进行校园网络升级，届时网络将出现间歇性中断。
+Author: admin
+Category: 通知
+PublishDate: 2025-12-27
+Status: 2
+---

@@ -1,0 +1,9 @@
+admin,admin123,2
+user1,password1,1
+user2,password2,1
+user3,password3,1
+user4,password4,1
+user5,password5,1
+user6,password6,1
+user7,password7,1
+user8,password8,1
